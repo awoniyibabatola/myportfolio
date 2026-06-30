@@ -1,4 +1,3 @@
-# myportfolio
 # EIA Energy Production Analytics: End-to-End on Microsoft Fabric
 
 An end-to-end analytics solution built on **Microsoft Fabric** that ingests, cleans, models, and visualizes global energy production data from the **U.S. Energy Information Administration (EIA)**. The project takes raw, messy source data all the way through to an interactive Power BI dashboard, following modern data-engineering practices: medallion architecture, dimensional modeling, and pipeline orchestration.
